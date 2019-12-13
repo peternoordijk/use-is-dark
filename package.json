@@ -1,7 +1,7 @@
 {
-  "name": "use-dark-mode",
+  "name": "react-hook-dark-mode",
   "version": "0.0.4",
-  "description": "A lightweight React library for forms",
+  "description": "React hook to check whether the OS dark mode is on or not",
   "keywords": [
     "react",
     "forms",
@@ -9,16 +9,16 @@
     "form",
     "text"
   ],
-  "main": "dist/use-dark-mode.umd.js",
-  "module": "dist/use-dark-mode.es5.js",
-  "typings": "dist/types/use-dark-mode.d.ts",
+  "main": "dist/react-hook-dark-mode.umd.js",
+  "module": "dist/react-hook-dark-mode.es5.js",
+  "typings": "dist/types/react-hook-dark-mode.d.ts",
   "files": [
     "dist"
   ],
   "author": "Peter Noordijk <peter.noordijk@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/peternoordijk/use-dark-mode"
+    "url": "https://github.com/peternoordijk/use-is-dark"
   },
   "license": "MIT",
   "engines": {

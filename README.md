@@ -1,5 +1,5 @@
 ```sh
-$ npm install use-dark-mode
+$ npm install react-hook-dark-mode
 ```
 
 A React Hook to check whether the OS dark mode has been turned on.
@@ -7,7 +7,7 @@ A React Hook to check whether the OS dark mode has been turned on.
 ![example](./example.gif)
 
 ```jsx
-import useIsDark from 'use-is-dark';
+import useIsDark from 'react-hook-dark-mode';
 
 function App() {
   const isDark = useIsDark();

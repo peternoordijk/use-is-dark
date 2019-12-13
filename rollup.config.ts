@@ -8,7 +8,7 @@ import peerDepsExternal from 'rollup-plugin-peer-deps-external';
 
 const pkg = require('./package.json')
 
-const libraryName = 'use-dark-mode'
+const libraryName = 'react-hook-dark-mode'
 
 export default {
   input: `src/${libraryName}.tsx`,
