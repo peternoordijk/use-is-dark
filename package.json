@@ -4,10 +4,9 @@
   "description": "React hook to check whether the OS dark mode is on or not",
   "keywords": [
     "react",
-    "forms",
-    "input",
-    "form",
-    "text"
+    "dark",
+    "mode",
+    "hook"
   ],
   "main": "dist/react-hook-dark-mode.umd.js",
   "module": "dist/react-hook-dark-mode.es5.js",
